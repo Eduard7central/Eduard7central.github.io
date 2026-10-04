@@ -4,13 +4,14 @@ $font-family-sans-serif: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, m
 $font-family-monospace: "IBM Plex Mono", ui-monospace, Menlo, monospace;
 $headings-font-family: "IBM Plex Mono", ui-monospace, Menlo, monospace;
 $headings-font-weight: 600;
-$body-color: #222222;
-$link-color: #1f5c99;
-$primary: #1f5c99;
-$navbar-bg: #ffffff;
+$body-color: #2a2620;
+$body-bg: #efe6d6;
+$link-color: #8a3b1e;
+$primary: #8a3b1e;
+$navbar-bg: #efe6d6;
 $navbar-fg: #222222;
-$navbar-hl: #1f5c99;
-$footer-bg: #ffffff;
+$navbar-hl: #8a3b1e;
+$footer-bg: #efe6d6;
 
 /*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap');
@@ -24,12 +25,12 @@ a:hover { text-decoration: underline; }
 .navbar-title { font-family: "IBM Plex Mono", monospace; font-weight: 500; font-size: .82rem; letter-spacing: .06em; text-transform: uppercase; color: #222 !important; }
 .navbar-title::after { content: "Democracy Research, University of Notre Dame"; color: #b3b3b3; margin-left: 1rem; font-weight: 500; }
 .navbar .nav-link { font-family: "IBM Plex Mono", monospace; font-weight: 500; font-size: .82rem; letter-spacing: .06em; text-transform: uppercase; color: #222 !important; padding-left: .7rem !important; padding-right: .7rem !important; }
-.navbar .nav-link.active, .navbar .nav-link:hover { color: #1f5c99 !important; }
+.navbar .nav-link.active, .navbar .nav-link:hover { color: #8a3b1e !important; }
 @media (max-width: 991px) { .navbar-title::after { content: none; } }
 
 main.content { max-width: 1040px; margin-left: auto !important; margin-right: auto !important; padding: 0 16px; }
 h1.title { font-size: 2rem; font-weight: 600; margin-top: 2rem; }
-h2 { font-size: 1.45rem; margin-top: 2rem; padding-bottom: .4rem; border-bottom: 1px solid #e5e5e5; }
+h2 { font-size: 1.45rem; margin-top: 2rem; padding-bottom: .4rem; border-bottom: 1px solid #d9ccb4; }
 
 /* Home page */
 body { font-size: 15.5px; }
@@ -38,8 +39,8 @@ body { font-size: 15.5px; }
 .detail p { font-size: .93rem; line-height: 1.75; margin-bottom: 1rem; }
 .home .right .headshot { width: 300px; height: 300px; object-fit: cover; display: block; }
 .home .icons { font-size: 1.3rem; margin: .7rem 0 1.4rem; }
-.home .icons a { color: #343a40; margin-right: 1rem; }
-.home .icons a:hover { color: #1f5c99; text-decoration: none; }
+.home .icons a { color: #2a2620; margin-right: 1rem; }
+.home .icons a:hover { color: #8a3b1e; text-decoration: none; }
 .home .side-photo { width: 100%; display: block; margin-top: 1.6rem; }
 #contact-me { margin-top: 3rem; }
 .contact p { font-size: .93rem; line-height: 1.75; }
@@ -67,3 +68,17 @@ body { font-size: 15.5px; }
 .home .side-photo { width: 100%; display: block; margin-top: 2.6rem; }
 .float-photo { float: right; width: 300px; margin: .3rem 0 1.2rem 2rem; }
 @media (max-width: 700px) { .float-photo { float: none; width: 100%; margin: 0 0 1.2rem; } }
+
+/* Sand theme */
+body, #quarto-header, .navbar, footer.footer, .nav-footer { background-color: #efe6d6 !important; }
+.navbar-title, .navbar .nav-link { color: #2a2620 !important; }
+
+/* Pictures gallery */
+.gallery { column-count: 3; column-gap: 1rem; margin-top: 1.8rem; }
+@media (max-width: 1000px) { .gallery { column-count: 2; } }
+.gallery p, .gallery .quarto-figure, .gallery figure { break-inside: avoid; margin: 0 0 1rem; }
+.gallery img { width: 100%; height: auto; display: block; }
+@media (max-width: 700px) { .gallery { column-count: 1; } }
+
+.license { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #d9ccb4; font-size: .82rem; color: #5a5248; }
+.license .bi { font-size: 1.4rem; color: #2a2620; margin-right: .4rem; vertical-align: middle; }

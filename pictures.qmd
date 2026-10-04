@@ -1,0 +1,109 @@
+---
+title: "Pictures"
+lightbox: true
+---
+
+On the side, I like photography! This section of the website documents my favorite pictures.
+
+::: {.gallery}
+![](images/photos/stadium-fireworks.jpg){group="photos" fig-alt="Fireworks and smoke over a soccer pitch before a match"}
+
+![](images/photos/forest-road.jpg){group="photos" fig-alt="A road curving past tall pines under a streaked sky, in a rose tone"}
+
+![](images/photos/fish-sculpture.jpg){group="photos" fig-alt="Sculpture of a man embracing a giant fish outside the Shedd Aquarium"}
+
+![](images/photos/aquarium.jpg){group="photos" fig-alt="A woman pointing at fish and a shark in a large aquarium tank"}
+
+![](images/photos/lakefront-ice.jpg){group="photos" fig-alt="Calm lake water and ice along a curved lakefront path, people walking"}
+
+![](images/photos/roof-painter.jpg){group="photos" fig-alt="A man on a ladder painting the trim of a Victorian house under a hazy sun"}
+
+![](images/photos/mosaic.jpg){group="photos" fig-alt="Byzantine mosaic of Christ with light falling across the wall"}
+
+![](images/photos/ferry.jpg){group="photos" fig-alt="A passenger looking out the window of a ferry on a grey day"}
+
+![](images/photos/terrace-gulls.jpg){group="photos" fig-alt="Empty chairs on a terrace overlooking gulls on the water and a hazy city skyline"}
+
+![](images/photos/fossil.jpg){group="photos" fig-alt="Fossil skeleton of a sail-backed animal against a dark wall"}
+
+![](images/photos/lake-boat.jpg){group="photos" fig-alt="A white tour boat on blue-green water with a city skyline behind"}
+
+![](images/photos/sunset-beach.jpg){group="photos" fig-alt="Sunset over a lake, with silhouetted people on the beach and in the water"}
+
+![](images/photos/voters-line.jpg){group="photos" fig-alt="Men waiting in line outside a polling station"}
+
+![](images/photos/cada-voto-cuenta.jpg){group="photos" fig-alt="A sign reading Cada voto cuenta on a blue wall"}
+
+![](images/photos/vote-count.jpg){group="photos" fig-alt="Poll workers filling out tally sheets at a table, a religious poster on the wall"}
+
+![](images/photos/terraces.jpg){group="photos" fig-alt="Stone ruins above curved agricultural terraces on a hillside, in sepia"}
+
+![](images/photos/cloister-arcade.jpg){group="photos" fig-alt="Sunlit cloister arcade with two people sitting by the columns"}
+
+![](images/photos/crater-lake.jpg){group="photos" fig-alt="A caldera lake with a small island, in a rose tone"}
+
+![](images/photos/cloister-cross.jpg){group="photos" fig-alt="A stone cross rising from a wildflower garden inside a cloister"}
+
+![](images/photos/stone-sculpture.jpg){group="photos" fig-alt="A tall stone sculpture with iron spikes standing in tall grass"}
+
+![](images/photos/sea-stacks.jpg){group="photos" fig-alt="Sea stacks rising from the ocean under a clear blue sky"}
+
+![](images/photos/waterfall.jpg){group="photos" fig-alt="A waterfall in a basalt gorge framed by evergreen trees and haze"}
+
+![](images/photos/raven-sculpture.jpg){group="photos" fig-alt="A large carved cedar sculpture of a raven under a round skylight"}
+
+![](images/photos/river-valley.jpg){group="photos" fig-alt="A river winding through a dry, golden valley with pines"}
+
+![](images/photos/totem-pond.jpg){group="photos" fig-alt="A carved pole reflected in a pond under an overcast sky"}
+
+![](images/photos/forest-markers.jpg){group="photos" fig-alt="Two white stone markers among trees on an autumn hillside"}
+
+![](images/photos/steel-sculpture.jpg){group="photos" fig-alt="Curved weathering-steel walls against a blue sky"}
+
+![](images/photos/white-blocks.jpg){group="photos" fig-alt="White stone block buildings above tall autumn grass"}
+
+![](images/photos/autumn-leaves.jpg){group="photos" fig-alt="Fallen leaves half in sunlight, half in shadow"}
+
+![](images/photos/house-shadow.jpg){group="photos" fig-alt="The shadow of a bare tree across a house and fence, in a dark rose tone"}
+
+![](images/photos/stadium-coin-toss.jpg){group="photos" fig-alt="A fan raising a cap above a football field during the coin toss"}
+
+![](images/photos/tidal-flats.jpg){group="photos" fig-alt="Tidal flats and marsh under a deep blue sky with clouds"}
+
+![](images/photos/monument-lights.jpg){group="photos" fig-alt="A tall stone tower strung with lights at dusk above houses"}
+
+![](images/photos/green-leaves.jpg){group="photos" fig-alt="Large green tropical leaves against a pale sky"}
+
+![](images/photos/garden-boardwalk.jpg){group="photos" fig-alt="A wooden boardwalk through palms and bright flowers toward the sea"}
+
+![](images/photos/sea-foam.jpg){group="photos" fig-alt="Sea foam patterns on wet sand, in a rose tone"}
+
+![](images/photos/ice-cream-cart.jpg){group="photos" fig-alt="An ice cream vendor pushing a tricycle cart across a wide beach, in sepia"}
+
+![](images/photos/beach-frames.jpg){group="photos" fig-alt="Rows of bare wooden canopy frames on a beach facing the ocean"}
+
+![](images/photos/charcoal-grill.jpg){group="photos" fig-alt="Tongs arranging glowing charcoal in a grill, in black and white"}
+
+![](images/photos/peak-above-clouds.jpg){group="photos" fig-alt="A snow-capped peak rising above a sea of clouds, in a rose tone"}
+
+![](images/photos/plane-window-volcano.jpg){group="photos" fig-alt="A volcano peak among clouds seen from an airplane window, in sepia"}
+
+![](images/photos/paso-hacia-la-gracia.jpg){group="photos" fig-alt="A lit sign reading Paso hacia la gracia over a carved colonial doorway at night"}
+
+![](images/photos/paramo-sunset.jpg){group="photos" fig-alt="Sun setting behind a ridge over dark highlands dotted with lagoons"}
+
+![](images/photos/bare-branches.jpg){group="photos" fig-alt="Bare tree branches silhouetted against a grey dusk sky"}
+
+![](images/photos/gallery-visitor.jpg){group="photos" fig-alt="A woman looking at a textured map-like artwork on a gallery wall"}
+
+![](images/photos/cable-cars.jpg){group="photos" fig-alt="Cable cars gliding over power lines and a billboard frame at dusk"}
+
+![](images/andes.jpg){group="photos" fig-alt="Andean páramo landscape at dusk"}
+
+![](images/fire.jpg){group="photos" fig-alt="Silhouette of a man walking past a large bonfire at night"}
+:::
+
+::: {.license}
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><i class="bi bi-badge-cc"></i></a>
+All photographs on this page are by Eduardo Pagés and licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are welcome to share and adapt them, provided you credit "Eduardo Pagés" and link to this page.
+:::
