@@ -20,7 +20,29 @@ title: "Publications"
 Mustillo, Thomas, **Eduardo Pagés,** and Jeffrey J. Harden. 2026. "Inferring Global Networks of Democratic Policy Diffusion." Working paper. University of Notre Dame. Presented at the 2026 Annual Meeting of the Midwest Political Science Association.
 :::
 
+## Evaluation reports
+
+::: {.pub}
+Bolten, Catherine, Shriniwas Gautam, Danice Brown Guzmán, Eksander Ataallah, Lila Khatiwada, and **Eduardo Pagés.** 2025. *ERIE Evaluation of BHA Emergency Crop Intervention, South Sudan. Pilot Study 2: Agricultural Markets, Value Addition, and Trade Development.* University of Notre Dame and USAID.<br>
+[DOI](https://doi.org/10.7274/29825291.v1){.tag}
+:::
+
+::: {.pub}
+Brown Guzmán, Danice, Lila Khatiwada, Jaclyn Biedronski, **Eduardo Pagés,** and Paul Friesen. 2025. *Long-term Evaluation of the Center for Conflict and Violence Prevention (CVP) Reconciliation Fund Activities.* University of Notre Dame and USAID.<br>
+[DOI](https://doi.org/10.7274/29402405.v1){.tag}
+:::
+
+::: {.pub}
+Wood, Danielle, Thomas Mustillo, **Eduardo Pagés,** Mikaela Bona, Brian Wanbaugh, and Mohammad Farrae. 2023. *Identifying Constructs and Metrics for Adaptive Capacity: Lessons from Guatemala, Honduras, Nicaragua, Colombia, and Haiti.* ND-GAIN Technical Report. University of Notre Dame.<br>
+[DOI](https://doi.org/10.7274/33145610.v1){.tag}
+:::
+
 ## Policy briefs
+
+::: {.pub}
+**Pagés, Eduardo.** 2026. "Democracy with Exceptions: Autocratic Persuasion and Potential Responses." Global Democracy Conference report. Kellogg Institute for International Studies, University of Notre Dame.<br>
+[DOI](https://doi.org/10.7274/33179318.v1){.tag}
+:::
 
 ::: {.pub}
 Gautam, Shriniwas, P. Ravindranath, **Eduardo Pagés,** and Danice Brown Guzmán. 2026. "From Crisis to Continuity: Strengthening Agricultural Resilience through Evidence." Policy brief. University of Notre Dame.<br>
@@ -34,18 +56,6 @@ International Republican Institute. 2024. *Evidence Briefer: Political Parties a
 ::: {.pub}
 Pérez-Liñán, Aníbal, and **Eduardo Pagés.** 2023. *Democratic Backsliding and Authoritarian Resurgence in Latin America.* NORC at the University of Chicago and Kellogg Institute for International Studies.<br>
 [PDF](https://www.norc.org/PDFs/Democratic%20Backsliding%20Panel/Democratic%20Backsliding%20Panel%20-%20Brief%20-%20English.pdf){.tag}
-:::
-
-## Evaluation reports
-
-::: {.pub}
-Bolten, Catherine, Shriniwas Gautam, Danice Brown Guzmán, Eksander Ataallah, Lila Khatiwada, and **Eduardo Pagés.** 2025. *ERIE Evaluation of BHA Emergency Crop Intervention, South Sudan. Pilot Study 2: Agricultural Markets, Value Addition, and Trade Development.* University of Notre Dame and USAID.<br>
-[DOI](https://doi.org/10.7274/29825291.v1){.tag}
-:::
-
-::: {.pub}
-Brown Guzmán, Danice, Lila Khatiwada, Jaclyn Biedronski, **Eduardo Pagés,** and Paul Friesen. 2025. *Long-term Evaluation of the Center for Conflict and Violence Prevention (CVP) Reconciliation Fund Activities.* University of Notre Dame and USAID.<br>
-[DOI](https://doi.org/10.7274/29402405.v1){.tag}
 :::
 
 ## Teaching case studies

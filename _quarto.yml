@@ -22,5 +22,7 @@ format:
       light: [cosmo, styles.scss]
     toc: false
     page-layout: full
+    include-in-header:
+      text: '<meta name="google-site-verification" content="d9QWnWDzLtX7ZNqzBEEGg6mCYW7MQCTSgyORNH1W5ec" />'
     smooth-scroll: true
     link-external-newwindow: true
