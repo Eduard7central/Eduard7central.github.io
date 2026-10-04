@@ -1,0 +1,63 @@
+---
+title: "Publications"
+---
+
+## Articles and essays
+
+::: {.pub}
+**Pagés, Eduardo.** 2025. "Why Democracy by Referendum Seldom Works." *Journal of Democracy*, Online Exclusive, September 10.<br>
+[Link](https://www.journalofdemocracy.org/online-exclusive/why-democracy-by-referendum-seldom-works/){.tag}
+:::
+
+## Working papers
+
+::: {.pub}
+**Pagés, Eduardo,** and Danice Brown Guzmán. 2026. "Sustaining Social Cohesion: 'Project Institutions' as Conditions for Long-Term Peacebuilding." *APSA Preprints*. Presented at the 2025 Annual Meeting of the American Political Science Association.<br>
+[Preprint](https://doi.org/10.33774/apsa-2025-qh8h4-v2){.tag}
+:::
+
+::: {.pub}
+Mustillo, Thomas, **Eduardo Pagés,** and Jeffrey J. Harden. 2026. "Inferring Global Networks of Democratic Policy Diffusion." Working paper. University of Notre Dame. Presented at the 2026 Annual Meeting of the Midwest Political Science Association.
+:::
+
+## Policy briefs
+
+::: {.pub}
+Gautam, Shriniwas, P. Ravindranath, **Eduardo Pagés,** and Danice Brown Guzmán. 2026. "From Crisis to Continuity: Strengthening Agricultural Resilience through Evidence." Policy brief. University of Notre Dame.<br>
+[Link](https://curate.nd.edu/articles/report/_b_Policy_brief_b_From_Crisis_to_Continuity_Strengthening_Agricultural_Resilience_through_Evidence/31985403){.tag}
+:::
+
+::: {.pub}
+International Republican Institute. 2024. *Evidence Briefer: Political Parties and Opposition to Democratic Erosion.* Contributor.
+:::
+
+::: {.pub}
+Pérez-Liñán, Aníbal, and **Eduardo Pagés.** 2023. *Democratic Backsliding and Authoritarian Resurgence in Latin America.* NORC at the University of Chicago and Kellogg Institute for International Studies.<br>
+[PDF](https://www.norc.org/PDFs/Democratic%20Backsliding%20Panel/Democratic%20Backsliding%20Panel%20-%20Brief%20-%20English.pdf){.tag}
+:::
+
+## Evaluation reports
+
+::: {.pub}
+Bolten, Catherine, Shriniwas Gautam, Danice Brown Guzmán, Eksander Ataallah, Lila Khatiwada, and **Eduardo Pagés.** 2025. *ERIE Evaluation of BHA Emergency Crop Intervention, South Sudan. Pilot Study 2: Agricultural Markets, Value Addition, and Trade Development.* University of Notre Dame and USAID.<br>
+[DOI](https://doi.org/10.7274/29825291.v1){.tag}
+:::
+
+::: {.pub}
+Brown Guzmán, Danice, Lila Khatiwada, Jaclyn Biedronski, **Eduardo Pagés,** and Paul Friesen. 2025. *Long-term Evaluation of the Center for Conflict and Violence Prevention (CVP) Reconciliation Fund Activities.* University of Notre Dame and USAID.<br>
+[DOI](https://doi.org/10.7274/29402405.v1){.tag}
+:::
+
+## Teaching case studies
+
+::: {.pub}
+**Pagés, Eduardo,** and Lakshmi Iyer. 2022. "Joe Biden's Spending Plans: Building Back Better?" Case study. University of Notre Dame.<br>
+[DOI](https://doi.org/10.7274/p8418k75509){.tag}
+:::
+
+## Data
+
+::: {.pub}
+Pedroza, Luicy, Pau Palop García, et al. 2022. *IMISEM Dataset: Every Immigrant Is an Emigrant.* Contributor (data collection for Uruguay and the Dominican Republic).<br>
+[DOI](https://doi.org/10.7802/2380){.tag}
+:::

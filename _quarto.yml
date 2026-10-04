@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+    - images/
+
+website:
+  title: "Eduardo Pagés"
+  site-url: "https://eduard7central.github.io"
+  description: "Political scientist working on democracy, governance, and social cohesion."
+  navbar:
+    right:
+      - text: CV
+        href: cv.qmd
+      - text: Publications
+        href: publications.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

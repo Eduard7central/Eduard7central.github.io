@@ -1,0 +1,49 @@
+---
+title: "CV"
+---
+
+<!-- To offer a PDF, save it as files/Pages_CV.pdf and uncomment the next line. -->
+<!-- [Download CV (PDF)](files/Pages_CV.pdf){.btn .btn-outline-primary .btn-sm} -->
+
+## Professional experience
+
+<div class="cv-entry"><div class="cv-row"><div><strong>Program Manager, Global Democracy Research</strong><br><span class="org">Kellogg Institute for International Studies, University of Notre Dame, Notre Dame, IN</span></div><div class="when">Aug 2025 – present</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Specialist, Evidence and Learning</strong><br><span class="org">Pulte Institute for Global Development, University of Notre Dame, Washington, DC</span></div><div class="when">Sep 2023 – Aug 2025</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Senior Associate, Research and Evaluation</strong><br><span class="org">International Republican Institute, Washington, DC</span></div><div class="when">Jan 2023 – Sep 2023</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Research Associate, Climate Adaptation</strong><br><span class="org">Notre Dame Global Adaptation Initiative (ND-GAIN), Notre Dame, IN</span></div><div class="when">Mar 2022 – Mar 2023</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Research and Teaching Assistant to Lakshmi Iyer and Aníbal Pérez-Liñán</strong><br><span class="org">Keough School of Global Affairs, University of Notre Dame, Notre Dame, IN</span></div><div class="when">Aug 2021 – Jul 2022</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Graduate Consultant, Center for City Solutions</strong><br><span class="org">National League of Cities, Washington, DC</span></div><div class="when">Dec 2020 – Dec 2021</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Research Assistant, Institute for Latin American Studies</strong><br><span class="org">German Institute for Global and Area Studies (GIGA), Hamburg and Berlin</span></div><div class="when">Apr 2019 – Sep 2019</div></div></div>
+
+## Education
+
+<div class="cv-entry"><div class="cv-row"><div><strong>Master of Global Affairs, Sustainable Development</strong><br><span class="org">University of Notre Dame</span></div><div class="when">2022</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>MA, Interdisciplinary Latin American Studies</strong><br><span class="org">Freie Universität Berlin</span></div><div class="when">2020</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>BA, Political Science</strong><br><span class="org">Freie Universität Berlin</span></div><div class="when">2018</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Exchange Program, Politics, Economics, and Journalism</strong><br><span class="org">University of Pennsylvania</span></div><div class="when">2018</div></div></div>
+
+## Conference presentations
+
+<div class="cv-entry"><div class="cv-row"><div><strong>Inferring Global Networks of Democratic Policy Diffusion</strong><br><span class="org">Midwest Political Science Association Annual Conference, Chicago, IL</span></div><div class="when">Mar 2026</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Sustaining Social Cohesion: “Project Institutions” as Conditions for Long-Term Peacebuilding</strong><br><span class="org">American Political Science Association Annual Meeting, Vancouver</span></div><div class="when">Sep 2025</div></div></div>
+<div class="cv-entry"><div class="cv-row"><div><strong>Measuring for a Lasting Peace: Long-Term Evaluations of Peacebuilding Activities across Four Countries</strong><br><span class="org">American Evaluation Association, Portland, OR</span></div><div class="when">Oct 2024</div></div></div>
+
+## Awards
+
+Riberas Orjales Fellowship, University of Notre Dame<br>
+[Ernst-Reuter Scholarship](https://www.fu-berlin.de/sites/erg/foerderaktivitaeten/ernst-reuter-stipendien/ers10/index.html), Freie Universität Berlin<br>
+[Berlin Consortium for German Studies (BCGS)](https://global.undergrad.columbia.edu/program/bcgs) Scholarship
+
+## Methods and tools
+
+Quasi-experimental designs, survey design, process tracing, and qualitative comparative analysis (QCA). R, Stata, ArcGIS, ATLAS.ti, Dedoose, and Zotero.
+
+## Languages
+
+Spanish (native), English (fluent), German (fluent), French (basic)
+
+## Professional memberships
+
+American Political Science Association · Midwest Political Science Association · American Evaluation Association
+
+See [Publications](publications.qmd) for a full list of publications and reports.
