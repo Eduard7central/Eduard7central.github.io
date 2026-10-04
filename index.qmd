@@ -17,11 +17,15 @@ My writing has appeared in the [Journal of Democracy](https://www.journalofdemoc
 I have presented my work at the American Political Science Association (APSA), the Midwest Political Science Association (MPSA), and the American Evaluation Association (AEA).
 :::
 
+::: {.andes-wrap}
 <img class="side-photo" src="images/andes.jpg" alt="Andean páramo landscape at dusk">
+:::
 :::
 
 ::: {.right}
+::: {.photo-wrap}
 <img class="headshot" src="images/headshot.jpg" alt="Portrait of Eduardo Pagés">
+:::
 
 <div class="icons">
 <a href="https://scholar.google.com/citations?user=4RTPRncAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
