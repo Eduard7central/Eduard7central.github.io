@@ -44,13 +44,13 @@ body { font-size: 15.5px; }
 #contact-me { margin-top: 3rem; }
 .contact p { font-size: .93rem; line-height: 1.75; }
 @media (max-width: 800px) {
-  /* Phone order: intro text first, then photo, research, landscape */
+  /* Phone order: photo, intro text, research, landscape */
   .home { display: flex; flex-direction: column; margin-top: 1.5rem; }
   .home .left, .home .right { display: contents; }
-  .home .statement { order: 1; font-size: 1.35rem; }
-  .home .left .detail { order: 2; }
-  .home .photo-wrap { order: 3; margin-top: .8rem; }
-  .home .icons { order: 4; }
+  .home .statement { order: 3; font-size: 1.35rem; }
+  .home .left .detail { order: 4; }
+  .home .photo-wrap { order: 1; }
+  .home .icons { order: 2; margin-bottom: 1.6rem; }
   .home .right .detail { order: 5; }
   .home .andes-wrap { order: 6; }
   .home .right .headshot { width: 220px; height: 220px; }
