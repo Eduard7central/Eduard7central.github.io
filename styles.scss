@@ -82,3 +82,17 @@ body, #quarto-header, .navbar, footer.footer, .nav-footer { background-color: #e
 
 .license { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #d9ccb4; font-size: .82rem; color: #5a5248; }
 .license .bi { font-size: 1.4rem; color: #2a2620; margin-right: .4rem; vertical-align: middle; }
+
+/* Justified, near edge-to-edge gallery: fixed rows of equal height */
+.gallery.justified { column-count: initial; width: calc(100vw - 48px); position: relative; left: 50%; transform: translateX(-50%); margin-top: 2rem; }
+.gallery.justified .jrow { display: flex; gap: 8px; margin-bottom: 8px; }
+.gallery.justified .jitem { overflow: hidden; min-width: 0; }
+.gallery.justified .jitem p, .gallery.justified .jitem figure, .gallery.justified .jitem .quarto-figure { margin: 0 !important; height: 100%; }
+.gallery.justified .jitem a { display: block; height: 100%; }
+.gallery.justified img { width: 100%; height: 100%; object-fit: cover; display: block; }
+@media (max-width: 700px) {
+  .gallery.justified { width: 100%; left: 0; transform: none; }
+  .gallery.justified .jrow { display: block; margin: 0; }
+  .gallery.justified .jitem { margin-bottom: 10px; }
+  .gallery.justified .jfill { display: none; }
+}
