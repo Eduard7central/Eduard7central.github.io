@@ -15,7 +15,7 @@ website:
         href: cv.qmd
       - text: Publications
         href: publications.qmd
-      - text: Pictures
+      - text: Photography
         href: pictures.qmd
 
 format:
