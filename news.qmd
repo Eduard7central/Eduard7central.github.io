@@ -1,0 +1,29 @@
+---
+title: "In the News"
+---
+
+Coverage and reports that mention my work and the programs I help lead.
+
+## 2026
+
+::: {.pub}
+Castillo García, Naix'ieli. 2026. "Conferencia por la Democracia Global 2027." *Gaceta UNAM*, October 15. (In Spanish.)<br>
+Coverage of the Kellogg Institute delegation's visit to UNAM to begin planning the 2027 Global Democracy Conference, co-hosted with UNAM's Coordinación de Humanidades (June 9–11, 2027).<br>
+[Link](https://www.gaceta.unam.mx/conferencia-por-la-democracia-global-2027/){.tag}
+:::
+
+## 2025
+
+::: {.pub}
+Pulte Institute for Global Development. 2025. "How Evidence to Support Long-term Peacebuilding Lives on Through the Pulte Institute." *Annual Review 2024–25*, p. 18. University of Notre Dame.<br>
+Feature on carrying forward the findings of the Expanding the Reach of Impact Evaluation (ERIE) consortium after its funding ended, and on my paper with Danice Brown Guzmán, "Project Institutions as Conditions for Sustained Social Cohesion," presented at APSA 2025.<br>
+[Link](https://publuu.com/flip-book/681977/2143028/page/20){.tag}
+:::
+
+## 2017
+
+::: {.pub}
+United Nations Association of Germany, Berlin-Brandenburg Branch. 2017. *National Model United Nations 2017: Report of the Participation of Freie Universität Berlin, Representing the Republic of Malta.* UN-Forum 1/2017. September.<br>
+Report on the Freie Universität Berlin delegation at NMUN 2017 in New York, where I represented Malta in the First Committee (Disarmament and International Security) with Alonso Burgos.<br>
+[PDF](https://www.fu-berlin.de/sites/mun/medien/mun/reports/DOCU-MALTA-Internet.pdf){.tag}
+:::

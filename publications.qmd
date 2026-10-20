@@ -9,6 +9,7 @@ title: "Publications"
 </div>
 <div class="coverwall">
 <a class="ccard" href="https://www.journalofdemocracy.org/online-exclusive/why-democracy-by-referendum-seldom-works/"><img src="images/covers/jod-referendum.jpg" alt="Why Democracy by Referendum Seldom Works"><span class="cinfo"><span class="ckind">Essay · 2025</span><span class="ctitle">Why Democracy by Referendum Seldom Works</span><span class="cauth">Pagés, Eduardo</span><span class="cgo">Open ↗</span></span></a>
+<a class="ccard" href="https://keough.nd.edu/news-and-events/news/is-there-a-playbook-for-defending-democracy/"><img src="images/covers/playbook-defending-democracy.jpg" alt="Is There a Playbook for Defending Democracy?"><span class="cinfo"><span class="ckind">Blog post · 2022</span><span class="ctitle">Is There a Playbook for Defending Democracy?</span><span class="cauth">Pagés, Eduardo, and Aníbal Pérez-Liñán</span><span class="cgo">Open ↗</span></span></a>
 <a class="ccard" href="https://doi.org/10.33774/apsa-2025-qh8h4-v2"><img src="images/covers/sustaining-social-cohesion.jpg" alt="Sustaining Social Cohesion: &#x27;Project Institutions&#x27; as Conditions for Long-Term Peacebuilding"><span class="cinfo"><span class="ckind">Working paper · 2026</span><span class="ctitle">Sustaining Social Cohesion: &#x27;Project Institutions&#x27; as Conditions for Long-Term Peacebuilding</span><span class="cauth">Pagés, Eduardo, and Danice Brown Guzmán</span><span class="cgo">Open ↗</span></span></a>
 <a class="ccard" href="https://doi.org/10.7274/29825291.v1"><img src="images/covers/south-sudan-erie.jpg" alt="ERIE Evaluation of BHA Emergency Crop Intervention, South Sudan. Pilot Study 2: Agricultural Markets, Value Addition, and Trade Development"><span class="cinfo"><span class="ckind">Evaluation report · 2025</span><span class="ctitle">ERIE Evaluation of BHA Emergency Crop Intervention, South Sudan. Pilot Study 2: Agricultural Markets, Value Addition, and Trade Development</span><span class="cauth">Bolten, Catherine, Shriniwas Gautam, Danice Brown Guzmán, Eksander Ataallah, Lila Khatiwada, and Eduardo Pagés</span><span class="cgo">Open ↗</span></span></a>
 <a class="ccard" href="https://doi.org/10.7274/29402405.v1"><img src="images/covers/cvp-evaluation.jpg" alt="Long-term Evaluation of the Center for Conflict and Violence Prevention (CVP) Reconciliation Fund Activities"><span class="cinfo"><span class="ckind">Evaluation report · 2025</span><span class="ctitle">Long-term Evaluation of the Center for Conflict and Violence Prevention (CVP) Reconciliation Fund Activities</span><span class="cauth">Brown Guzmán, Danice, Lila Khatiwada, Jaclyn Biedronski, Eduardo Pagés, and Paul Friesen</span><span class="cgo">Open ↗</span></span></a>
@@ -29,6 +30,11 @@ title: "Publications"
 ::: {.pub}
 **Pagés, Eduardo.** 2025. "Why Democracy by Referendum Seldom Works." *Journal of Democracy*, Online Exclusive, September 10.<br>
 [Link](https://www.journalofdemocracy.org/online-exclusive/why-democracy-by-referendum-seldom-works/){.tag}
+:::
+
+::: {.pub}
+**Pagés, Eduardo,** and Aníbal Pérez-Liñán. 2022. "Is There a Playbook for Defending Democracy?" *Dignity and Development* (blog), Keough School of Global Affairs, University of Notre Dame, February 1. Reposted by the Kellogg Institute for International Studies.<br>
+[Link](https://keough.nd.edu/news-and-events/news/is-there-a-playbook-for-defending-democracy/){.tag} [Kellogg](https://kellogg.nd.edu/news/there-playbook-defending-democracy){.tag}
 :::
 
 ## Working papers

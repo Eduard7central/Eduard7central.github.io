@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eduard7central.github.io/cv.html</loc>
-    <lastmod>2026-10-04T02:31:23.013Z</lastmod>
+    <loc>https://eduard7central.github.io/index.html</loc>
+    <lastmod>2026-10-20T02:24:35.137Z</lastmod>
   </url>
   <url>
     <loc>https://eduard7central.github.io/publications.html</loc>
-    <lastmod>2026-10-13T13:46:01.368Z</lastmod>
+    <lastmod>2026-10-20T02:47:11.434Z</lastmod>
   </url>
   <url>
-    <loc>https://eduard7central.github.io/index.html</loc>
-    <lastmod>2026-10-04T03:21:07.281Z</lastmod>
+    <loc>https://eduard7central.github.io/cv.html</loc>
+    <lastmod>2026-10-20T02:24:35.037Z</lastmod>
   </url>
   <url>
     <loc>https://eduard7central.github.io/pictures.html</loc>
-    <lastmod>2026-10-13T13:25:35.297Z</lastmod>
+    <lastmod>2026-10-20T02:24:35.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eduard7central.github.io/news.html</loc>
+    <lastmod>2026-10-20T02:32:13.170Z</lastmod>
   </url>
 </urlset>
