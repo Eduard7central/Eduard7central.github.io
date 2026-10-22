@@ -174,6 +174,36 @@ On the side, I like photography! This section of the website documents my favori
 
 :::: {.jrow}
 ::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/fog-skyline.jpg){group="photos" fig-alt="Skyscrapers disappearing into low fog under a dark sky, in a plum tone"}
+:::
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/flag-dresses.jpg){group="photos" fig-alt="Two women in matching stars-and-stripes dresses outside the National Museum of the American Indian"}
+:::
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/train-skylight.jpg){group="photos" fig-alt="A snowy peak seen through the skylight of a train car lit in amber"}
+:::
+::: {.jitem style="flex: 1.197 1 0; aspect-ratio: 1.197;"}
+![](images/photos/lightning-lake.jpg){group="photos" fig-alt="Lightning striking the water at dusk as swimmers wade in the lake"}
+:::
+::::
+
+:::: {.jrow}
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/machu-picchu-ruins.jpg){group="photos" fig-alt="Inca stone ruins on a ridge above a steep green valley under a clear sky"}
+:::
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/museum-projection.jpg){group="photos" fig-alt="Visitors in a dark exhibition room lined with vintage posters and a large projected cartoon"}
+:::
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/cloister-gate.jpg){group="photos" fig-alt="A painted face of the Virgin Mary glimpsed through an iron gate at the end of a dark arcade"}
+:::
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/jet-flyover.jpg){group="photos" fig-alt="Three fighter jets flying in formation past white clouds, in a pale green tone"}
+:::
+::::
+
+:::: {.jrow}
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
 ![](images/photos/peak-above-clouds.jpg){group="photos" fig-alt="A snow-capped peak rising above a sea of clouds, in a rose tone"}
 :::
 ::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
@@ -182,7 +212,38 @@ On the side, I like photography! This section of the website documents my favori
 ::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
 ![](images/photos/monument-lights.jpg){group="photos" fig-alt="A tall stone tower strung with lights at dusk above houses"}
 :::
-::: {.jfill style="flex: 1.167 1 0;"}
+::: {.jitem style="flex: 1.318 1 0; aspect-ratio: 1.318;"}
+![](images/photos/umbrella-nap.jpg){group="photos" fig-alt="A man napping on the grass under a blue umbrella beside a box of chips and a small American flag"}
+:::
+::::
+
+:::: {.jrow}
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/organ-cacti.jpg){group="photos" fig-alt="Tall organ-pipe cacti seen from below through tree branches, the sun breaking through"}
+:::
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/monte-alban-plaza.jpg){group="photos" fig-alt="Stepped stone platforms of Monte Albán across a grassy plaza, mountains behind"}
+:::
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/convent-courtyard.jpg){group="photos" fig-alt="A man walking past a tree in a sunlit stone courtyard with rows of river-stone beds"}
+:::
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/agave-bloom.jpg){group="photos" fig-alt="An agave flower stalk silhouetted against an overcast sky, in a rose tone"}
+:::
+::::
+
+:::: {.jrow}
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/cactus-garden.jpg){group="photos" fig-alt="Columnar cacti and cycads in a botanical garden under a bright sky"}
+:::
+::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
+![](images/photos/concrete-stairs.jpg){group="photos" fig-alt="Concrete stairs leading up to white armchairs in a dim brutalist interior, in sepia"}
+:::
+::: {.jitem style="flex: 0.627 1 0; aspect-ratio: 0.627;"}
+![](images/photos/red-sculpture.jpg){group="photos" fig-alt="A red steel sculpture of interlocking forms rising above green brush"}
+:::
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/stela-clouds.jpg){group="photos" fig-alt="A carved stone stela on a grassy slope under heavy clouds, in a rose tone"}
 :::
 ::::
 
