@@ -8,8 +8,8 @@ On the side, I like photography! This section of the website documents my favori
 ::::: {.gallery .justified}
 
 :::: {.jrow}
-::: {.jitem style="flex: 1.197 1 0; aspect-ratio: 1.197;"}
-![](images/photos/lightning-lake.jpg){group="photos" fig-alt="Lightning striking the water at dusk as swimmers wade in the lake"}
+::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
+![](images/photos/garden-boardwalk.jpg){group="photos" fig-alt="A wooden boardwalk through palms and bright flowers toward the sea"}
 :::
 ::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
 ![](images/photos/machu-picchu-ruins.jpg){group="photos" fig-alt="Inca stone ruins on a ridge above a steep green valley under a clear sky"}
@@ -92,8 +92,8 @@ On the side, I like photography! This section of the website documents my favori
 ::::
 
 :::: {.jrow}
-::: {.jitem style="flex: 1.500 1 0; aspect-ratio: 1.500;"}
-![](images/photos/garden-boardwalk.jpg){group="photos" fig-alt="A wooden boardwalk through palms and bright flowers toward the sea"}
+::: {.jitem style="flex: 1.197 1 0; aspect-ratio: 1.197;"}
+![](images/photos/lightning-lake.jpg){group="photos" fig-alt="Lightning striking the water at dusk as swimmers wade in the lake"}
 :::
 ::: {.jitem style="flex: 0.667 1 0; aspect-ratio: 0.667;"}
 ![](images/photos/gallery-visitor.jpg){group="photos" fig-alt="A woman looking at a textured map-like artwork on a gallery wall"}
